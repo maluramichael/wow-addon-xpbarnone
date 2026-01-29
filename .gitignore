@@ -1,0 +1,6 @@
+# Libraries - fetched by CurseForge packager
+Libs/
+
+# OS files
+.DS_Store
+Thumbs.db
