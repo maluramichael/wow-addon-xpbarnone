@@ -1,9 +1,12 @@
 ## Interface: 20505
-## Title: XPBarNone
+## Title: |cFF00D1FFMM|r XPBarNone
 ## Author: phyber
 ## X-Updated-By: Michael Malura
 ## Notes: XP bar using Ace3. Updated for Classic Era/TBC compatibility.
 ## Version: 100002-2
+## IconTexture: Interface\Icons\XP_Icon
+## Category-enUS: Quests & Leveling
+## Category-deDE: Quests & Aufwertung
 ## SavedVariables: XPBarNoneDB
 ## OptionalDeps: Ace3, LibQTip-1.0, LibSharedMedia-3.0
 ## X-Category: Interface Enhancements
@@ -11,9 +14,7 @@
 ## X-Original-Curse-Project-ID: 14910
 ## X-Original-WoWI-ID: 4849
 
-#@no-lib-strip@
 embeds.xml
-#@end-no-lib-strip@
 
 Locales\locales.xml
 Core.lua
