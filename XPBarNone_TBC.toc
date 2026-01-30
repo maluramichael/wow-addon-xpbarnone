@@ -3,7 +3,7 @@
 ## Author: phyber
 ## X-Updated-By: Michael Malura
 ## Notes: XP bar using Ace3. Updated for Classic Era/TBC compatibility.
-## Version: 100002-2
+## Version: 100002-3
 ## IconTexture: Interface\Icons\XP_Icon
 ## Category-enUS: Quests & Leveling
 ## Category-deDE: Quests & Aufwertung
