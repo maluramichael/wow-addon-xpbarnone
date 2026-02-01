@@ -1,4 +1,4 @@
-## Interface: 11508, 20505
+## Interface: 20505
 ## Title: |cFF00D1FFMM|r XPBarNone
 ## Author: phyber
 ## X-Updated-By: Michael Malura
