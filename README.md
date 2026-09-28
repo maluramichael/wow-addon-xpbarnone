@@ -1,5 +1,10 @@
 # XPBarNone
 
+<!-- links:start -->
+[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=wow-addon-xpbarnone)
+[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=wow-addon-xpbarnone)
+<!-- links:end -->
+
 _XPBarNone_ is an XP bar addon for [World of Warcraft]. The bar can switch
 between XP, Reputation, and [Heart of Azeroth] progress depending on your
 settings.
