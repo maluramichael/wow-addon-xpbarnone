@@ -1,6 +1,6 @@
 # XPBarNone
 
-## Unreleased
+## 100002-10 (2026-11-07)
 
 ### Fixed
 - Auto-watch reputation works without floating combat text for reputation,
